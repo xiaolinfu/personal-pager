@@ -1,7 +1,7 @@
 
 
 Last updated: March 10, 2017
-I has adopted this privacy policy (“Privacy Policy”) to explain how RSGapps collects, stores, and uses the information collected in connection with my products, services, and websites (together “Services”).
+I has adopted this privacy policy (“Privacy Policy”) to explain how Myapps collects, stores, and uses the information collected in connection with my products, services, and websites (together “Services”).
 Should you have any questions relating to this Privacy Policy, please contact us at eatchickengame@gmail.com.
 I reserves the right to modify this Privacy Policy at reasonable times, so please review it frequently. Your continued use of Services will signify your acceptance of the changes to this Privacy Policy.
 1. Non-personal Data
